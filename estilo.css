@@ -1,0 +1,140 @@
+body {
+	font-family: 'Red Hat Text', sans-serif;
+}
+
+p {
+	font-size: 14px;
+	line-height: 20px;
+	text-align: justify;
+	margin: 5%;
+	
+}
+
+footer {
+	font-style: italic;
+	font-size: 13px;
+	text-align: center;
+	color: #ffffff;
+
+}
+
+ul li {
+	font-size: 14px;
+	
+}
+
+nav {
+	text-align: center;
+	background-color: #000000
+
+}
+
+h2 {
+	text-align: center;
+	background-color: #000;
+	color: #fff;
+
+}
+
+a {
+	color: #ffffff;
+	display:inline-block;
+	margin:10px 25px 10px 10px;
+	
+}
+
+a:hover {
+	color: #E58EF9;
+	
+}
+
+textarea {
+	width:50%;
+	height:50px;
+	padding: 3px;
+	
+}
+
+body {
+	background-image: url(img/fondo.jpg);
+	background-repeat: round;
+
+}
+
+video {
+	margin: auto;
+	width: 500px;
+	
+
+}
+
+fieldset {
+	margin: auto;
+	width: 500px;
+	
+}
+
+.fechas {
+	text-align: center;
+	
+}
+
+
+.integrantes {
+	display: block;
+	margin: auto;
+	width: 50%;	
+	
+}
+
+.integrantes1 {
+	display: block;
+	margin: auto;
+	width: 50%;	
+	
+}
+
+.disco1 {
+	display: block;
+	margin: auto;
+	width:50%;
+
+}
+
+.logo {
+	margin: auto;
+	padding: 2%;
+	width: 50%;
+	display: block;
+	
+}
+
+.contenedor {
+	width:960px;
+	height:auto;
+	margin:auto;
+	overflow:hidden;
+	background-color: #FFFFFF;
+	
+}
+
+.logo {
+	margin: auto;
+	padding: 2%;
+	width: 50%;
+	display: block;
+	
+}
+
+.boton {
+	text-align: center;
+	width: 100px;
+	height: 25px;
+	background: #E58EF9;
+	transition: 10s;	
+	margin: auto;
+
+	
+}
+
+
